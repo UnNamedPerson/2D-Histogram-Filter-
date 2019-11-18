@@ -1,0 +1,44 @@
+﻿  tests.cpp
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\helpers.cpp(42,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\helpers.cpp(43,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\helpers.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\helpers.cpp(56,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\helpers.cpp(109,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\helpers.cpp(110,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\helpers.cpp(111,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\helpers.cpp(194,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\helpers.cpp(195,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\helpers.cpp(252,8): warning C4101: 'color': unreferenced local variable
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\debugging_helpers.cpp(24,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\debugging_helpers.cpp(27,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\debugging_helpers.cpp(43,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\debugging_helpers.cpp(46,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(48,13): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(49,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(107,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(193,11): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(193,11): warning C4244:         with
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(193,11): warning C4244:         [
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(193,11): warning C4244:             _Ty=float
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(193,11): warning C4244:         ]
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(198,11): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(198,11): warning C4244:         with
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(198,11): warning C4244:         [
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(198,11): warning C4244:             _Ty=float
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\localizer.cpp(198,11): warning C4244:         ]
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\tests.cpp(56,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\tests.cpp(57,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\tests.cpp(58,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\tests.cpp(72,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\tests.cpp(130,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\tests.cpp(136,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\tests.cpp(138,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\tests.cpp(201,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\tests.cpp(203,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\tests.cpp(218,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\tests.cpp(220,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\tests.cpp(241,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Sayari\Desktop\C++ codes\project3\project3\tests.cpp(242,20): warning C4305: '=': truncation from 'double' to 'float'
+  project3.vcxproj -> C:\Users\Sayari\Desktop\C++ codes\project3\Debug\project3.exe
